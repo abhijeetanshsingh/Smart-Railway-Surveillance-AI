@@ -83,7 +83,7 @@ os.makedirs(SNAP_DIR, exist_ok=True)
 # The user requested these be embedded directly in the code (less secure).
 # If you prefer environment variables, remove or comment these and use the env vars instead.
 DEFAULT_SENDER_EMAIL = "wwwanshsingh43@gmail.com"
-DEFAULT_SENDER_APP_PASSWORD = "Ibcbicoxyksjdqrj"
+DEFAULT_SENDER_APP_PASSWORD = "anshsingh"
 DEFAULT_RPF_EMAIL = "wwwanshsingh43@gmail.com"
 # -----------------------------------------------------------------
 
